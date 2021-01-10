@@ -3,4 +3,4 @@
 # Vault6 
 
 * SunBurst
-  - Fireeye Tools
+  - FireEye Tools
