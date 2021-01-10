@@ -1,2 +1,2 @@
-# Vault6 - Archiving Leaked samples from Different sources for Different Uses
+# Vault6 
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/Vault2.gif)
